@@ -9,5 +9,6 @@ Easy-to-use interface for generating creative content.
 
 Installation:
 To run this application, you'll need to have Python installed along with the following libraries:
+
 streamlit
 transformers
